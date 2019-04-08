@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityauthserver.model;
+package com.security.springsecurityauthserver.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityauthserver.config;
+package com.security.springsecurityauthserver.config;
 
 
 import java.util.Arrays;

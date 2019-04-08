@@ -1,7 +1,8 @@
-package com.techprimers.security.springsecurityauthserver.repository;
+package com.security.springsecurityauthserver.repository;
 
-import com.techprimers.security.springsecurityauthserver.model.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.security.springsecurityauthserver.model.Users;
 
 import java.util.Optional;
 

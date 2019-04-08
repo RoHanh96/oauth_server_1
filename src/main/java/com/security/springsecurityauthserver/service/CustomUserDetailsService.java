@@ -1,8 +1,9 @@
-package com.techprimers.security.springsecurityauthserver.service;
+package com.security.springsecurityauthserver.service;
 
-import com.techprimers.security.springsecurityauthserver.model.CustomUserDetails;
-import com.techprimers.security.springsecurityauthserver.model.Users;
-import com.techprimers.security.springsecurityauthserver.repository.UsersRepository;
+import com.security.springsecurityauthserver.model.CustomUserDetails;
+import com.security.springsecurityauthserver.model.Users;
+import com.security.springsecurityauthserver.repository.UsersRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

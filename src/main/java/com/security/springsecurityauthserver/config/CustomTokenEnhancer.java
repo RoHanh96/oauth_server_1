@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityauthserver.config;
+package com.security.springsecurityauthserver.config;
 
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphabetic;
 
